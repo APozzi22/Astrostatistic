@@ -14,8 +14,7 @@ Univariate distributions
 Introduction to scipy.stats
 
 ## Lecture 4: Probability   17/03/2025
-Central Limit Theorem
-
+Central Limit Theorem  \n
 Bivariate and Multivariate pdfs
 Correlation coefficients: Pearson, Spearman and Kendall
 Sampling from arbitrary distribution: Rejection Sampling and Inverse Transform Sampling
