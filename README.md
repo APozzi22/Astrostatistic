@@ -18,3 +18,6 @@ Central Limit Theorem
 Bivariate and Multivariate pdfs  
 Correlation coefficients: Pearson, Spearman and Kendall  
 Sampling from arbitrary distribution: Rejection Sampling and Inverse Transform Sampling
+
+## Lecture 5: Frequentist Statistical Inference     20/03/2005
+
