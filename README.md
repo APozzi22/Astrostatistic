@@ -19,7 +19,7 @@ Bivariate and Multivariate pdfs
 Correlation coefficients: Pearson, Spearman and Kendall  
 Sampling from arbitrary distribution: Rejection Sampling and Inverse Transform Sampling
 
-## Lecture 5: Frequentist Statistical Inference I   20/03/2005
+## Lecture 5: Frequentist Statistical Inference I   20/03/2025
 Statistical Inference  
 Frequentist vs. Bayesian Inference  
 Maximum Likelihood Estimation (MLE)  
@@ -27,3 +27,11 @@ MLE applied to a Homoscedastic Gaussian
 Quantifying Estimate Uncertainty  
 MLE applied to a Heteroscedastic Gaussian  
 Non-Gaussian Likelihoods  
+
+## Lecture 6: Frequentist Statistical Inference II   31/03/2025
+Fitting a Line To Data  
+Least Squares Fitting  
+Modifyng the Likelihood: Huber loss function  
+Goodness of Fit  
+Model Comparison  
+Confidence Estimating: Bootstrap and Jackknife  
