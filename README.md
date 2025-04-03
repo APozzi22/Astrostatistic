@@ -35,3 +35,10 @@ Modifyng the Likelihood: Huber loss function
 Goodness of Fit  
 Model Comparison  
 Confidence Estimating: Bootstrap and Jackknife  
+
+## Lecture 7: Frequentist Statistical Inference III  03/04/2025
+Hypothesis Testing: p-value  
+False Positive and False Negative  
+Comparing Distribution: Kolmogorov-Smirnov Test (KS Test)  
+Nonparametric Modeling and Histrograms  
+Kernel Density Estimation (KDE)  
