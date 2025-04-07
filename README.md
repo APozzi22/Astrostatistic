@@ -50,3 +50,9 @@ Bayesian priors: the principle of indifference, invariance (or consistency) and 
 Conjugate Priors  
 Hierarchical Bayes  
 Bayesian credible regions  
+Nuisance Parameters and Marginarization  
+
+## Lecture 9: Bayesian Statistical Inference II      07/04/2025
+Underlying Gaussian distribution with heteroscedastic Gaussian uncertainties  
+Gaussian distribution embedded in a uniform background distribution  
+Bayesian Model Comparison
