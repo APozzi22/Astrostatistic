@@ -56,3 +56,8 @@ Nuisance Parameters and Marginarization
 Underlying Gaussian distribution with heteroscedastic Gaussian uncertainties  
 Gaussian distribution embedded in a uniform background distribution  
 Bayesian Model Comparison  
+
+## Lecture 10: Bayesian Statistical Inference III    08/04/2025
+Monte Carlo Methods and Markov Chains Introduction  
+Markov Chain Monte Carlo (MCMC) Techniques  
+Metropolis-Hastings Algorithm  
