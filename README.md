@@ -61,3 +61,5 @@ Bayesian Model Comparison
 Monte Carlo Methods and Markov Chains Introduction  
 Markov Chain Monte Carlo (MCMC) Techniques  
 Metropolis-Hastings Algorithm  
+
+## Lecture 11: Bayesian Statistical Inference IV     10/04/2025
