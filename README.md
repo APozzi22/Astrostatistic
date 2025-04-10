@@ -63,3 +63,10 @@ Markov Chain Monte Carlo (MCMC) Techniques
 Metropolis-Hastings Algorithm  
 
 ## Lecture 11: Bayesian Statistical Inference IV     10/04/2025
+Practical MCMC chain checks  
+Computing autocorrelation times  
+Optimizing sampling  
+MCMC Parameter Estimation: emcee and PyMC  
+MCMC with emcee  
+MCMC with PyMC (optional)  
+Gibbs Sampling  
