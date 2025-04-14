@@ -70,3 +70,5 @@ MCMC Parameter Estimation: emcee and PyMC
 MCMC with emcee  
 MCMC with PyMC (optional)  
 Gibbs Sampling  
+
+## Lecture 12: Bayesian Statistical Inference V      14/04/2025
