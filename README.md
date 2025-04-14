@@ -72,3 +72,9 @@ MCMC with PyMC (optional)
 Gibbs Sampling  
 
 ## Lecture 12: Bayesian Statistical Inference V      14/04/2025
+Pratical Evidence Evaluation and Model Selection  
+Savage-Dickey Density Ratio  
+Product-space Sampling  
+Thermodynamic Integration  
+Nested Sampling  
+Dynesty  
