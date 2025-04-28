@@ -89,3 +89,9 @@ Supervised Learning: Classification and Regression
 Unsupervised Learning: Dimensionality Reduction and Clustering  
 Model Validation  
 How to Choose your Estimator  
+
+## Lecture 14: Clustering                                      28/04/2025
+Determinate the optimal algorithm: K-fold cross validation  
+Clustering  
+K-Means Clustering  
+Mean-shift Clustering  
