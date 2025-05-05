@@ -95,3 +95,12 @@ Determinate the optimal algorithm: K-fold cross validation
 Clustering  
 K-Means Clustering  
 Mean-shift Clustering  
+
+## Lecture 15: Dimensional Reduction I                         05/05/2025
+Curse of Dimensionality  
+Principal Component Analysis (PCA)  
+Preparing data for PCA  
+Interpreting the PCA  
+Missing Data  
+Non-negative Matrix Factorization (NMF)  
+Independent Component Analysis (ICA)  
