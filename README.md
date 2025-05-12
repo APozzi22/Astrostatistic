@@ -104,3 +104,14 @@ Interpreting the PCA
 Missing Data  
 Non-negative Matrix Factorization (NMF)  
 Independent Component Analysis (ICA)  
+
+## Lecture 16: Dimensional Reduction II                        12/05/2025
+Non-linear Dimensional Reduction  
+Local Linear Embedding (LLE)  
+Isometric Mapping (IsoMap)  
+t-distributed Stochastic Neighbor Embedding (t-SNE)  
+Drawbacks of non-linear embeddings tecniques  
+Recap: Density Estimation  
+    - Nonparametric Density Estimation: KDE, 2D KDE, Nearest-Neighbor Density Estimation  
+    - Parametric Density Estimation: Gaussian Mixture Models (GMM)  
+Pills of modern research  
