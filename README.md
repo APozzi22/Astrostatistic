@@ -114,4 +114,5 @@ Drawbacks of non-linear embeddings tecniques
 Recap: Density Estimation  
 - Nonparametric Density Estimation: KDE, 2D KDE, Nearest-Neighbor Density Estimation  
 - Parametric Density Estimation: Gaussian Mixture Models (GMM)  
+
 Pills of modern research  
