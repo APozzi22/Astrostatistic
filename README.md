@@ -116,3 +116,17 @@ Recap: Density Estimation
 - Parametric Density Estimation: Gaussian Mixture Models (GMM)  
 
 Pills of modern research  
+
+## Lecture 17: Regression I                                    15/05/2025
+Regression = Fit  
+2-D Linear Regression  
+Homoscedastic uncertainty scenario  
+Heteroscedastic uncertainty scenario  
+A Word of Caution: always visualize your data  
+Multivariate Linear Regression  
+Polynomial Regression  
+Basis Function Regression  
+Kernel Regression  
+Over/Under-fitting  
+Cross-Validation  
+Learning Curves  
