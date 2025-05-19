@@ -130,3 +130,12 @@ Kernel Regression
 Over/Under-fitting  
 Cross-Validation  
 Learning Curves  
+
+## Lecture 18: Regression II                                   19/05/2025
+Regularization  
+Ridge Regression (or Tikhonov Regularization)  
+Least Absolute Shrinkage and Selection (LASSO) Regularization  
+Elastic Net and Deep Learning  
+Non-linear Regression  
+Gaussian Process Regression (GPR)  
+Uncertainties All Round -- Total Least Squares (TLS)  
