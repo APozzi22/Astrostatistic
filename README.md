@@ -139,3 +139,14 @@ Elastic Net and Deep Learning
 Non-linear Regression  
 Gaussian Process Regression (GPR)  
 Uncertainties All Round -- Total Least Squares (TLS)  
+
+## Lecture 19: Classification I                                22/05/2025
+Generative vs. Discriminative Classification  
+Assessing your Results  
+Comparing the Performance of Classifier  
+Generative Classification  
+Naive Bayes Classifier  
+Gaussian Naive Bayes Classifier  
+Linear & Quadratic Discriminant Analysis  
+Gaussian Mixture Models (GMM) and Bayes Classification  
+K-Nearest Neighbor Classifier  
