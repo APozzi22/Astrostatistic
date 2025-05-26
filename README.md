@@ -150,3 +150,13 @@ Gaussian Naive Bayes Classifier
 Linear & Quadratic Discriminant Analysis  
 Gaussian Mixture Models (GMM) and Bayes Classification  
 K-Nearest Neighbor Classifier  
+
+## Lecture 20: Classification II                               26/05/2025
+Discriminative Classification  
+Logistic Regression  
+Support Vector Machines  
+Kernel Methods  
+Decision Trees  
+Decision Trees Splitting Criteria  
+Ensemble Learning: Bagging and Random Forests  
+Boosting  
