@@ -160,3 +160,20 @@ Decision Trees
 Decision Trees Splitting Criteria  
 Ensemble Learning: Bagging and Random Forests  
 Boosting  
+
+## Lecture 21: Deep Learning I                                 27/05/2025
+Loss Functions  
+Gradient Descent  
+AdaBoost  
+Neural Network  
+Backpropagation  
+Computational Digrassion  
+Number of Layers  
+Number of Neurons  
+Activation Functions  
+Vanishing and Exploding Gradients  
+Regularization  
+Batch normalization  
+Data Augmentation  
+Faster Optimizzers  
+Training, Validation and Test Set  
