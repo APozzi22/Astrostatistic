@@ -1,6 +1,6 @@
 # Astrostatistic and Machine Learning
 
-N.B. The cedo for the exam must be upload in the directory "working" in your fork of "astrostatics_bicocca_2025"
+N.B. The code for the exam must be upload in the directory "working" in your fork of "astrostatics_bicocca_2025"
 
 ## Lecture 1: Introduction                                     03/03/2025
 Github installation and test
